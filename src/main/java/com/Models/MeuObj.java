@@ -1,4 +1,4 @@
-package com.projeto.estruturaDados;
+package com.Models;
 
 public class MeuObj {
 

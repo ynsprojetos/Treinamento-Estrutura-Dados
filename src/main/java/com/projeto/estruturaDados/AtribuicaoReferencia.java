@@ -2,7 +2,7 @@ package com.projeto.estruturaDados;
 
 import com.Models.MeuObj;
 
-public class main {
+public class AtribuicaoReferencia {
 
     public static void main(String[] args) {
 
