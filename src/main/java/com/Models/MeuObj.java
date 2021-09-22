@@ -1,4 +1,4 @@
-package com.projeto.atribuicaoreferencia;
+package com.projeto.estruturaDados;
 
 public class MeuObj {
 

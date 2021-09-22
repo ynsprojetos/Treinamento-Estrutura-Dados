@@ -1,4 +1,6 @@
-package com.projeto.atribuicaoreferencia;
+package com.projeto.estruturaDados;
+
+import com.Models.MeuObj;
 
 public class main {
 
@@ -27,6 +29,8 @@ public class main {
         System.out.println("OBJETO A: " + objA + "  -  " + "OBJETO B: " + objB);
 
         // ===================================================================== //
+
+
         // ===================================================================== //
     }
 }
