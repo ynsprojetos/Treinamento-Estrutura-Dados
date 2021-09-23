@@ -18,11 +18,21 @@ public class EncadeamentoNo {
         no1.setProximoNo(no2);
 
         no no3 =  new no("conteudo no3");
-        no2.setProximoNo(no2);
+        no2.setProximoNo(no3);
 
         no no4 =  new no("conteudo no4");
         no3.setProximoNo(no4);
 
         System.out.println(no1);
+        System.out.println(no1.getProximoNo());
+        System.out.println(no2);
+
+        System.out.println("--------------");
+
+        System.out.println(no1);
+        System.out.println(no1.getProximoNo());
+        System.out.println(no1.getProximoNo().getProximoNo());
+        System.out.println(no1.getProximoNo().getProximoNo().getProximoNo());
+        System.out.println(no1.getProximoNo().getProximoNo().getProximoNo().getProximoNo());
     }
 }
